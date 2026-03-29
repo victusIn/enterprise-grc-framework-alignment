@@ -1,6 +1,0 @@
-Risk_ID,Threat_Event,Impact_Level,Likelihood,Primary_Control,Status
-R-01,Unauthorized Data Exfiltration,High,Medium,AC-4 (Information Flow),Mitigated
-R-02,Social Engineering / Phishing,Medium,High,AT-2 (Security Awareness),Active
-R-03,Privilege Escalation,High,Low,AC-6 (Least Privilege),Monitoring
-R-04,Unsecured Cloud Storage,High,Medium,SC-28 (Protection of Data at Rest),Remediation
-R-05,Insider Threat (Malicious),Medium,Low,AU-6 (Audit Review),Planned
