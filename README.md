@@ -28,5 +28,14 @@ Implementation of the **Three Lines of Defense** model to establish clear accoun
 ## How to Use This Repository
 This documentation serves as a blueprint for GRC practitioners to align technical security efforts with international compliance standards.
 
+## Strategic GRC Frameworks
+| NIST RMF Cycle | Shared Responsibility |
+| :---: | :---: |
+| ![NIST RMF](./images/nist_rmf.png) | ![Shared Responsibility](./images/shared_responsibility.png) |
+
+| Three Lines of Defense | ISO 27001 PDCA |
+| :---: | :---: |
+| ![3 Lines of Defense](./images/3_lines.png) | ![ISO PDCA](./images/iso_pdca.png) |
+
 ---
 **Author:** Shakera Karolia
